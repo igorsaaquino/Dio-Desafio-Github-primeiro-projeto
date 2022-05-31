@@ -2,4 +2,4 @@
 Desafio proposto pela DIO/MRV para GIT/GITHub
 
 ## Links Úteis
-[Sintaxe básica dee MarkDown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe básica de MarkDown](https://www.markdownguide.org/basic-syntax/)
